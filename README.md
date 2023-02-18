@@ -1,2 +1,2 @@
-minor update!  my-first-repo
+ my-first-repo
 Practice account for learning Git
